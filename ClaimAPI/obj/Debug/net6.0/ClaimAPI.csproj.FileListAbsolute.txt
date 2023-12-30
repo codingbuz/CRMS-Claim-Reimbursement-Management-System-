@@ -1,0 +1,410 @@
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.exe
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.deps.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.runtimeconfig.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.pdb
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Identity.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\JWT.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.AssemblyReference.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfoInputs.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfo.cs
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CoreCompileInputs.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.ClaimAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimAPI.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimAPI.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimAPI.props
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\scopedcss\bundle\ClaimAPI.styles.css
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CopyComplete
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\refint\ClaimAPI.dll
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.pdb
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.genruntimeconfig.cache
+E:\Sunil Sir\Proejcts\ClaimApp\ClaimAPI\obj\Debug\net6.0\ref\ClaimAPI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.exe
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.deps.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.runtimeconfig.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.pdb
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\JWT.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.ClaimAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimAPI.props
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimAPI.props
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimAPI.props
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\scopedcss\bundle\ClaimAPI.styles.css
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CopyComplete
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\refint\ClaimAPI.dll
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.pdb
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\ClaimApp (2)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ref\ClaimAPI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.exe
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.deps.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.runtimeconfig.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.pdb
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\JWT.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfo.cs
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.ClaimAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimAPI.props
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimAPI.props
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimAPI.props
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\scopedcss\bundle\ClaimAPI.styles.css
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CopyComplete
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\refint\ClaimAPI.dll
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.pdb
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.genruntimeconfig.cache
+C:\Users\admin\Downloads\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ref\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\refint\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.pdb
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.exe
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.deps.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.runtimeconfig.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.pdb
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\JWT.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.AssemblyReference.cache
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfoInputs.cache
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfo.cs
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CoreCompileInputs.cache
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.ClaimAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\scopedcss\bundle\ClaimAPI.styles.css
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CopyComplete
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.genruntimeconfig.cache
+C:\upendra_rajput\ClaimApp (11)\ClaimApp (11)\ClaimApp\ClaimAPI\obj\Debug\net6.0\ref\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\appsettings.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.exe
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.deps.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.runtimeconfig.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\ClaimAPI.pdb
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\JWT.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.AssemblyReference.cache
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfoInputs.cache
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.AssemblyInfo.cs
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CoreCompileInputs.cache
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.ClaimAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClaimAPI.props
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\scopedcss\bundle\ClaimAPI.styles.css
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.csproj.CopyComplete
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\refint\ClaimAPI.dll
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.pdb
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ClaimAPI.genruntimeconfig.cache
+C:\upendra_rajput\ClaimApp (11)\EmpClaim\ClaimApp\ClaimAPI\obj\Debug\net6.0\ref\ClaimAPI.dll

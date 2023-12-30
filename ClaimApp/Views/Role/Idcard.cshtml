@@ -1,0 +1,147 @@
+﻿@{
+}
+@* <input type="hidden" value="@ViewBag.Role" id="hdnRole" /> *@
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            <h4 class="card-title">Pending Request</h4>
+
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered" id="tblIdcard">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Mobile</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<!-- /.modal -->
+
+<div class="modal fade" id="modalIdcard">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width:52pc; margin-left:-189px">
+            <div class="modal-header">
+                <h4 class="modal-title">Add New Role</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-6">
+                        <input type="hidden" class="form-control" id="hdnRoleId" value="0" />
+                        <div class="form-group" id="formGroupRoleName">
+                            <label>Role Name <span class="mandatory">*</span></label>
+                            <input type="text" class="form-control" id="txtRoleName" />
+                            <span id="errRoleName"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group" id="formGroupStatus">
+                            <label>Status <span class="mandatory">*</span></label>
+                            <select class="form-control" id="ddlStatus">
+                                <option value="-1">Select</option>
+                                <option value="1">Active</option>
+                                <option value="0">InActive</option>
+                            </select>
+                            <span id="errStatus"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6 mt-3">
+                        <button id="btnReload" class="btn btn-info">Refresh</button>
+                    </div>
+                    <div class="col-6 mt-3">
+                        <button id="btnSubmit" class="btn btn-info float-right">Submit</button>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 mt-3">
+                        <p id="msg"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!--modal for action hisotry-->
+<!--idcard
+-->
+
+   
+<style>
+    #profilePicture {
+        max-width: 100px;
+        height: auto;
+        margin-left:40%;
+    }
+</style>
+
+    <!-- Bootstrap Modal -->
+    <div class="modal fade" id="idCardModal" tabindex="-1" role="dialog" aria-labelledby="idCardModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="idCardModalLabel">ID Card</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                   
+                <img id="profilePicture" src="~/image/download.png" alt="Profile Picture"  />
+
+
+                      <div class="form-group">
+                           <label for="firstName">Id:</label>
+                          <input type="text" class="form-control" id="txtid" name="firstName">
+                     </div>
+                <div class="form-group">
+                        <label for="firstName">Name:</label>
+                        <input type="text" class="form-control" id="firstName" name="firstName">
+                    </div>
+                    <div class="form-group">
+                        <label for="lastName">Email:</label>
+                        <input type="text" class="form-control" id="txtemail" name="lastName">
+                    </div>
+                    <div class="form-group">
+                        <label for="dob">Mobile:</label>
+                        <input type="text" class="form-control" id="txtmobile" name="dob">
+                    </div>
+                    <div class="form-group">
+                        <label for="address">Address:</label>
+                        <input type="text" class="form-control" id="txtaddress" name="address" value="Noida">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="downloadPDF()" data-dismiss="modal">Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--End modal for action hisotry-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+<script type="text/javascript" src="~/js/Role/Idcard.js"></script>
